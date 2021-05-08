@@ -9,7 +9,7 @@
 * Admin XD Team
 * Pecinta Code
 <p>
-kata gue:
+kata gue: </br>
 " jancokkkk "
 </p>
 
