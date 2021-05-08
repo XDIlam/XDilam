@@ -3,11 +3,14 @@
 
 **Welcome My Github**
 
-Salam Kenal yahh..
+<h2>Salam Kenal yahh..</h2>
 
 * ilham
 * Admin XD Team
 * Pecinta Code
+<p>
+kata gue:
+" jancokkkk "
+</p>
 
-
-<p align="center">copyright by 2030</p>
+<h3 align="center" color="red">copyright by 2030</h3>
