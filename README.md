@@ -10,4 +10,4 @@ Salam Kenal yahh..
 * Pecinta Code
 
 
-<p tipe="center">copyright by 2030</p>
+<p align="center">copyright by 2030</p>
