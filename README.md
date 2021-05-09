@@ -10,7 +10,7 @@
 * Pecinta Code
 <p>
 kata gue: </br>
-" jancokkkk "
+" i'm not hacker anjeng "
 </p>
 
 <h3 align="center" color="red">copyright by 2030</h3>
